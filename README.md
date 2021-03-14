@@ -11,6 +11,7 @@
 - Валидные номера карт не равные 16 символам не проходят проверку
 
 **баг-репорт:**
+
 1.[программа Credit Card Number Validator не принимает валидацию карт не равную 16](https://github.com/Ek-Arhmann/homeworks_Credit-Card-Number-Validator/issues/2)
 
 **Описание процесса тестирования**
